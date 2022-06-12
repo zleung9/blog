@@ -31,3 +31,19 @@ DEFAULT_PAGINATION = False
 
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
+
+###########################################################################
+THEME = '/Users/zhuliang/pelican-themes/pelican-blue'
+SIDEBAR_DIGEST = 'LZ的随笔'
+
+FAVICON = 'url-to-favicon'
+
+DISPLAY_PAGES_ON_MENU = True
+
+# TWITTER_USERNAME = 'zleung'
+
+MENUITEMS = (
+    ('HOME', "http://localhost:8000"),
+)
+DISPLAY_SUMMARY = False
+DISPLAY_CONTENT = True
