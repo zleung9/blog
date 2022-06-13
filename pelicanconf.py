@@ -33,7 +33,7 @@ DEFAULT_PAGINATION = False
 RELATIVE_URLS = True
 
 ###########################################################################
-THEME = '/Users/zhuliang/pelican-themes/pelican-blue'
+THEME = './themes/pelican-blue'
 SIDEBAR_DIGEST = 'LZ的随笔'
 
 FAVICON = 'url-to-favicon'
