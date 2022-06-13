@@ -57,7 +57,16 @@ article section .blog-post
 }
 
 /* Body */
-body {margin: 0}
+/* body {
+  margin: 0;
+  font-family: 'Noto Serif SC', serif;
+  font-size: 16px;
+} */
+body {
+  margin: 0;
+  font-family: 'Noto Sans SC', sans-serif;
+  font-size: 16px;
+}
 body > article, footer {
   line-height: 1.6em;
   display: block;
